@@ -84,3 +84,4 @@ driver.get('http://buyme.co.il')
 driver.maximize_window()
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 driver.get_screenshot_as_file('/Users/moti/Downloads/screenshot.png')
+# report.
