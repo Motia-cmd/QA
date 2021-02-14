@@ -59,4 +59,3 @@ driver.find_element_by_class_name('hybrid-login-form-help').click()
 driver.find_element_by_class_name('login-button').click()
 time.sleep(1)
 driver.quit()
-# now we will test all the help 
